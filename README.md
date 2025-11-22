@@ -13,7 +13,8 @@ Tu utilises un logiciel spécial appelé **hyperviseur**, comme :
 
 Ce logiciel crée un environnement virtuel qui imite un vrai ordinateur : processeur, disque dur, RAM, carte réseau, etc.
 
-<img width="500" height="206" alt="Virtualization" src="https://github.com/user-attachments/assets/91e9e23c-9ee5-4aa9-b5b5-a59751089e26" />
+<img width="600" height="306" alt="Virtualization" src="https://github.com/user-attachments/assets/91e9e23c-9ee5-4aa9-b5b5-a59751089e26" />
+
 
 La VM sert a:
 
