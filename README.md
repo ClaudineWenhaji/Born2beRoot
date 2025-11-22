@@ -6,12 +6,14 @@ L'objectif de ce projet est de creer sa machine virtuelle
 Une machine virtuelle (VM) est un ordinateur simulé à l’intérieur d’un autre ordinateur.
 Autrement dit : c’est comme si tu avais un deuxième PC qui tourne dans une fenêtre sur ton vrai PC
 
-Comment ça fonctionne ?
+# Comment ça fonctionne ?
 
-Tu utilises un logiciel spécial appelé hyperviseur, comme :
+Tu utilises un logiciel spécial appelé **hyperviseur**, comme :
 * VirtualBox * VMware * Hyper-V * etc...
 
 Ce logiciel crée un environnement virtuel qui imite un vrai ordinateur : processeur, disque dur, RAM, carte réseau, etc.
+
+<img width="1360" height="706" alt="Virtualization" src="https://github.com/user-attachments/assets/91e9e23c-9ee5-4aa9-b5b5-a59751089e26" />
 
 La VM sert a:
 
