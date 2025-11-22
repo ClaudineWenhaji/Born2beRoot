@@ -7,10 +7,7 @@ Autrement dit : c’est comme si tu avais un deuxième PC qui tourne dans une fe
 Comment ça fonctionne ?
 
 Tu utilises un logiciel spécial appelé hyperviseur, comme :
-* VirtualBox
-* VMware
-* Hyper-V
-* etc...
+* VirtualBox * VMware * Hyper-V * etc...
 
 Ce logiciel crée un environnement virtuel qui imite un vrai ordinateur : processeur, disque dur, RAM, carte réseau, etc.
 
