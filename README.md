@@ -11,10 +11,9 @@ Autrement dit : c’est comme si tu avais un deuxième PC qui tourne dans une fe
 Tu utilises un logiciel spécial appelé **hyperviseur**, comme :
 * VirtualBox * VMware * Hyper-V * etc...
 
-Ce logiciel crée un environnement virtuel qui imite un vrai ordinateur : processeur, disque dur, RAM, carte réseau, etc.
+L'Hyperviseur crée un environnement virtuel qui imite un vrai ordinateur : processeur, disque dur, RAM, carte réseau, etc.
 
-<img width="600" height="306" alt="Virtualization" src="https://github.com/user-attachments/assets/91e9e23c-9ee5-4aa9-b5b5-a59751089e26" />
-
+<img width="600" height="306" alt="Virtualization" src="https://github.com/user-attachments/assets/91e9e23c-9ee5-4aa9-b5b5-a59751089e26" "La couche de virtualisation est creee par l'hyperviseur" />
 
 La VM sert a:
 
