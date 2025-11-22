@@ -1,5 +1,7 @@
 # Born2beRoot
-Creer sa machine virtuelle
+L'objectif de ce projet est de creer sa machine virtuelle
+
+# Machine Virtuelle
 
 Une machine virtuelle (VM) est un ordinateur simulé à l’intérieur d’un autre ordinateur.
 Autrement dit : c’est comme si tu avais un deuxième PC qui tourne dans une fenêtre sur ton vrai PC
