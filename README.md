@@ -56,3 +56,9 @@ Software = programmes
 Les deux sont indispensables :
 ➡️ Sans software, le hardware ne sait rien faire.
 ➡️ Sans hardware, le software n’a nulle part pour fonctionner
+
+# Systeme d'exploitation: Debian
+
+Debian est un système d’exploitation Linux, l’une des plus anciennes et les plus utilisées, réputée pour sa stabilité, sa sécurité et son côté libre/open-source.
+
+Debian utilise le gestionnaire de paquet APT pour installer et mettre à jour les logiciels (avec des commandes comme apt install).
